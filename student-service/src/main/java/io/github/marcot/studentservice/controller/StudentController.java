@@ -1,5 +1,6 @@
 package io.github.marcot.studentservice.controller;
 
+import io.github.marcot.studentservice.StudentServiceApplication;
 import io.github.marcot.studentservice.model.Student;
 import io.github.marcot.studentservice.service.StudentService;
 import org.springframework.http.HttpStatus;
